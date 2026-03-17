@@ -2,9 +2,13 @@
 
 <h2 align="center">Desenvolvedor | Criativo | Apaixonado por Tecnologia</h2>
 
-- 🌱 Atualmente estudando **Java e Python**
-- 😄 Pronouns: Ele/Dele
-
+- 🌱 Atualmente estudando Java, Python e Desenvolvimento de Sistemas
+- 📚 Aprendendo Backend com Java e APIs REST
+- 🚀 Evoluindo minhas habilidades em programação e desenvolvimento web
+- 🤝 Aberto para colaborar em projetos
+- 💡 Criativo e apaixonado por desenvolvimento
+- 🔎 Buscando desafios na área de TI
+  
 <div align="center">
 
 <h2>Análise e Desenvolvimento de Sistemas</h2>
